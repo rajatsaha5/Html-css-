@@ -1,0 +1,27 @@
+@media(max-width: 991px){
+    .about-left{
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+    }
+    .food-img{
+        width: 48%;
+    }
+    .member{
+        width: 48%;
+    }
+   
+}
+
+@media(max-width: 410px){
+    .food-img{
+        width: 94%;
+    }
+    .member{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+  
+  
+}
